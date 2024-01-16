@@ -14,5 +14,5 @@ or [YouTube channel](https://www.youtube.com/@BrickSortingMachine).
 ## Contents
 
 - [Hardware](doc/hardware/hardware.md) - Instructions and documentation on the LEGO and non-LEGO parts of the physical setup
-- ~~[BrickSortingMachine-sorter.git](http://)~~ - Software stack to run on the LEGO sorting machine (open sourcing still in preparation)
-- ~~[BrickSortingMachine-training.git](http://)~~ - Classifier training for the LEGO sorting machine (open sourcing still in preparation)
+- ~~[BrickSortingMachine-sorter.git](https://github.com/BrickSortingMachine/BrickSortingMachine-sorter)~~ - Software stack to run on the LEGO sorting machine (open sourcing still in preparation)
+- ~~[BrickSortingMachine-training.git](https://github.com/BrickSortingMachine/BrickSortingMachine-training)~~ - Classifier training for the LEGO sorting machine (open sourcing still in preparation)
