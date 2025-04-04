@@ -8,7 +8,7 @@ A machine to automatically sort your LEGO collection
 
 </div>
 
-This project is heavily inspired by numerous preceding LEGO sorting machines, I'd like to give credit [in this article](https://medium.com/@bricksortingmachine/lego-sorting-machine-overview-d390645759f9). For background information visit the [blog](https://medium.com/@bricksortingmachine)
+This project is heavily inspired by numerous preceding LEGO sorting machines, I'd like to give credit [in this article](https://bricksortingmachine.com/exploring-lego-sorting-machines-a-survey-of-designs). For background information visit the [blog](https://bricksortingmachine.com)
 or [YouTube channel](https://www.youtube.com/@BrickSortingMachine).
 
 ## Contents
